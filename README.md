@@ -55,8 +55,6 @@ A sleek, modern, and fully functional calculator built with React and Tailwind C
 └── README.md
 ```
 
-## License
 
-This project is for demonstration purposes and does not include a specific license. Feel free to use and modify for personal or educational use.
 
 Built with ❤️ using React
